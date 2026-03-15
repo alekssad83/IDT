@@ -31,7 +31,11 @@ Included research papers:
 
 ## Citation
 
-If you use this work in research, please cite the Zenodo DOI associated with this repository.
+If you use this work, please cite:
+
+Sadovnikov, A. (2026).
+Information-Dynamic Theory (IDT).
+Zenodo. https://doi.org/10.5281/zenodo.19039072
 
 ## License
 
