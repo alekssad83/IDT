@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Information-Dynamic Theory (IDT)"
+message: "If you use this repository, please cite it."
+type: software
+
+authors:
+  - family-names: Sadovnikov
+    given-names: Aleksei
+    affiliation: Independent Researcher
+    city: Kingston
+    country: Jamaica
+
+version: 1.0
+date-released: 2026
+license: MIT
