@@ -1,4 +1,4 @@
-# Information-Dynamic Theory (IDT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19039072.svg)](https://doi.org/10.5281/zenodo.19039072)# Information-Dynamic Theory (IDT)
 
 Author: Aleksei Sadovnikov  
 Location: Kingston, Jamaica  
